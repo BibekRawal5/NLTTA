@@ -1,0 +1,808 @@
+[
+  {
+    "id": 7,
+    "uuid": "07e74aab-22bd-4a88-95db-f11f2e4e9a36",
+    "created_at": "2025-04-26T18:45:25.334192Z",
+    "modified_at": null,
+    "visit_count": 0,
+    "slug": "the-kathmandu-post",
+    "name": "The Kathmandu Post",
+    "name_nepali": "द काठमाडौँ पोस्ट",
+    "url": "https://kathmandupost.com/rss",
+    "logo_url": "https://assets-cdn.kathmandupost.com/uploads/source/news/2019/default/tkp-no-image-bnw.jpg",
+    "favicon_url": "https://jcss-cdn.kathmandupost.com/assets/images/device-icon/ficon.ico",
+    "website": "https://kathmandupost.com",
+    "description": "",
+    "is_active": true,
+    "language": "English",
+    "last_checked": "2025-05-10T17:34:07.973507Z",
+    "parse_feed_item_image": true,
+    "title": "Kathamndu post RSS",
+    "title_detail": {
+      "base": "",
+      "type": "text/plain",
+      "value": "Kathamndu post RSS",
+      "language": null
+    },
+    "subtitle": "The Kathmandu Post : Find the latest breaking news from Nepal, opinion and analysis on Nepali politics, business, culture and arts, sports, movies, food and travel, books, education, auto and more at kathmandupost.com",
+    "subtitle_detail": {
+      "base": "",
+      "type": "text/html",
+      "value": "The Kathmandu Post : Find the latest breaking news from Nepal, opinion and analysis on Nepali politics, business, culture and arts, sports, movies, food and travel, books, education, auto and more at kathmandupost.com",
+      "language": null
+    },
+    "updated_at": null,
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "https://kathmandupost.com/",
+        "type": "text/html"
+      }
+    ],
+    "seo_meta_title": "The Kathmandu Post | Read online latest news and articles fr",
+    "seo_meta_description": "The Kathmandu Post : Find the latest breaking news from Nepal, opinion & analysis on Nepali politics, business, culture & arts, sports, movies, food & travel, b",
+    "seo_meta_keywords": "Nepal news in English, Kathmandu, Kathmandu post, TKP, Nepali News, Political, Science, Social, Sport, Economy, Business, Entertainment, Interview, Business news, Money, SaturdayViews, Reviews, online news nepal, Nepal news today, Nepal headline news, The"
+  },
+  {
+    "id": 13,
+    "uuid": "cf57b53f-aeec-4afe-b792-e7e5bd6874c3",
+    "created_at": "2025-04-26T18:45:25.362876Z",
+    "modified_at": null,
+    "visit_count": 0,
+    "slug": "thaha-khabar",
+    "name": "Thaha Khabar",
+    "name_nepali": "थाहा खबर",
+    "url": "https://thahakhabar.com/rss/",
+    "logo_url": null,
+    "favicon_url": null,
+    "website": "https://thahakhabar.com/",
+    "description": null,
+    "is_active": false,
+    "language": "Nepali",
+    "last_checked": "2025-05-10T17:31:36.144271Z",
+    "parse_feed_item_image": true,
+    "title": "",
+    "title_detail": {
+
+    },
+    "subtitle": "",
+    "subtitle_detail": {
+
+    },
+    "updated_at": null,
+    "links": [],
+    "seo_meta_title": "",
+    "seo_meta_description": "",
+    "seo_meta_keywords": ""
+  },
+  {
+    "id": 14,
+    "uuid": "f14f1d67-b5c6-46e6-a025-7a6e89a483f7",
+    "created_at": "2025-04-28T18:27:53.554655Z",
+    "modified_at": null,
+    "visit_count": 0,
+    "slug": "techpana",
+    "name": "TechPana",
+    "name_nepali": "टेकपाना",
+    "url": "https://techpana.com/feed/",
+    "logo_url": "https://techpana.prixacdn.net/static/assets/images/techpana-logo.png",
+    "favicon_url": "https://techpana.prixacdn.net/static/assets/images/favicon.ico",
+    "website": "https://techpana.com/",
+    "description": "",
+    "is_active": true,
+    "language": "Nepali",
+    "last_checked": "2025-05-10T17:34:09.060839Z",
+    "parse_feed_item_image": true,
+    "title": "Techpana  - News Feed",
+    "title_detail": {
+      "base": "",
+      "type": "text/plain",
+      "value": "Techpana  - News Feed",
+      "language": null
+    },
+    "subtitle": "Techpana's Official RSS Feed.",
+    "subtitle_detail": {
+      "base": "",
+      "type": "text/html",
+      "value": "Techpana's Official RSS Feed.",
+      "language": null
+    },
+    "updated_at": null,
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://techpana.com/feed/",
+        "type": "application/rss+xml"
+      },
+      {
+        "rel": "alternate",
+        "href": "",
+        "type": "text/html"
+      }
+    ],
+    "seo_meta_title": "Tech News Nepal",
+    "seo_meta_description": "TechPana is a media firm that seeks to increase Nepalis' familiarity with technology while addressing a wide range of global tech-related issues.",
+    "seo_meta_keywords": "TechPana is a media firm that seeks to increase Nepalis' familiarity with technology while addressing a wide range of global tech-related issues."
+  },
+  {
+    "id": 15,
+    "uuid": "fd3c5591-4e85-4d7d-af31-44a6503177eb",
+    "created_at": "2025-04-29T17:13:23.487223Z",
+    "modified_at": null,
+    "visit_count": 0,
+    "slug": "swasthya-khabarpatrika",
+    "name": "Swasthya Khabarpatrika",
+    "name_nepali": "स्वास्थ्य खबरपत्रिका",
+    "url": "https://swasthyakhabar.com/feed",
+    "logo_url": "https://swasthyakhabar.com/themes/swasthyakhabar/images/fb-img.png",
+    "favicon_url": "https://swasthyakhabar.com/themes/swasthyakhabar/images/favicon.ico",
+    "website": "https://swasthyakhabar.com",
+    "description": "",
+    "is_active": true,
+    "language": "Nepali",
+    "last_checked": "2025-05-10T17:34:05.759737Z",
+    "parse_feed_item_image": true,
+    "title": "SwasthKhabar",
+    "title_detail": {
+      "base": "",
+      "type": "text/plain",
+      "value": "SwasthKhabar",
+      "language": null
+    },
+    "subtitle": "SwasthKhabar News Portal",
+    "subtitle_detail": {
+      "base": "",
+      "type": "text/html",
+      "value": "SwasthKhabar News Portal",
+      "language": null
+    },
+    "updated_at": null,
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://swasthyakhabar.com/feed",
+        "type": "application/rss+xml"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://swasthyakhabar.com/",
+        "type": "text/html"
+      }
+    ],
+    "seo_meta_title": "स्वास्थ्य खबरपत्रिका :: Swasthya Khabarpatrika",
+    "seo_meta_description": "Swasthya Khabar is Nepal's independent health news portal that provides quick current affairs update, analysis and fact-based news on health. It also provides h",
+    "seo_meta_keywords": "स्वास्थ्य, खबरपत्रिका, , Swasthya, Khabarpatrika, , स्वास्थ्य खबरपत्रिका :: Swasthya Khabarpatrika"
+  },
+  {
+    "id": 8,
+    "uuid": "9b7478de-a627-45e9-a95e-915026b975ac",
+    "created_at": "2025-04-26T18:45:25.338950Z",
+    "modified_at": null,
+    "visit_count": 0,
+    "slug": "setopati",
+    "name": "SetoPati",
+    "name_nepali": "सेतोपाटी",
+    "url": "https://www.setopati.com/feed",
+    "logo_url": "https://www.setopati.com/themes/setopati/images/og-image.jpg",
+    "favicon_url": "https://www.setopati.com/themes/setopati/images/favicon.png",
+    "website": "https://setopati.com",
+    "description": null,
+    "is_active": true,
+    "language": "Nepali",
+    "last_checked": "2025-05-10T17:34:00.569477Z",
+    "parse_feed_item_image": true,
+    "title": "Setopati",
+    "title_detail": {
+      "base": "",
+      "type": "text/plain",
+      "value": "Setopati",
+      "language": null
+    },
+    "subtitle": "Setopati News Portal",
+    "subtitle_detail": {
+      "base": "",
+      "type": "text/html",
+      "value": "Setopati News Portal",
+      "language": null
+    },
+    "updated_at": null,
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://www.setopati.com/feed",
+        "type": "application/rss+xml"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://www.setopati.com/",
+        "type": "text/html"
+      }
+    ],
+    "seo_meta_title": "Nepal's Digital Newspaper :: नेपालको डिजिटल पत्रिका",
+    "seo_meta_description": "Nepal's digital newspaper, online destination for Nepal news, views, reviews, features, blogs and audio video content covering Nepali politics, society, market,",
+    "seo_meta_keywords": "Nepal's, Digital, Newspaper, , नेपालको, डिजिटल, पत्रिका, , Setopati"
+  },
+  {
+    "id": 4,
+    "uuid": "7c33b10b-7f30-4b1f-b87d-c79060542c01",
+    "created_at": "2025-04-26T18:45:25.319855Z",
+    "modified_at": null,
+    "visit_count": 0,
+    "slug": "rato-pati",
+    "name": "Rato Pati",
+    "name_nepali": "रातोपाटी",
+    "url": "https://www.ratopati.com/nprss",
+    "logo_url": "https://npcdn.ratopati.com/media/setting/banner-image_sPOGzj8QHe.jpg",
+    "favicon_url": "https://npcdn.ratopati.com/media/setting/fav_WteZzVu6I7.png",
+    "website": "https://ratopati.com",
+    "description": null,
+    "is_active": true,
+    "language": "Nepali",
+    "last_checked": "2025-05-10T17:34:06.988954Z",
+    "parse_feed_item_image": true,
+    "title": "Nepal's first 24-hour updated news portal - Ratopati",
+    "title_detail": {
+      "base": "",
+      "type": "text/plain",
+      "value": "Nepal's first 24-hour updated news portal - Ratopati",
+      "language": null
+    },
+    "subtitle": "Ratopati is Best Online Nepali news portal for Politics, Opinions, Sports, Entertainment, Corporate, English news, Blogs and other news from Nepal.",
+    "subtitle_detail": {
+      "base": "",
+      "type": "text/html",
+      "value": "Ratopati is Best Online Nepali news portal for Politics, Opinions, Sports, Entertainment, Corporate, English news, Blogs and other news from Nepal.",
+      "language": null
+    },
+    "updated_at": "2025-05-10T16:56:00Z",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://www.ratopati.com/nprss",
+        "type": "application/rss+xml"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://www.ratopati.com/nprss",
+        "type": "text/html"
+      }
+    ],
+    "seo_meta_title": "Nepal's first 24-hour updated news portal - Ratopati",
+    "seo_meta_description": "Ratopati is Best Online Nepali news portal for Politics, Opinions, Sports, Entertainment, Corporate, English news, Blogs and other news from Nepal.",
+    "seo_meta_keywords": "Ratopati is Best Online Nepali news portal for Politics, Opinions, Sports, Entertainment, Corporate, English news, Blogs and other news from Nepal, 24 hours updating"
+  },
+  {
+    "id": 12,
+    "uuid": "97716c91-730a-4366-b9c6-5ab8db6795dd",
+    "created_at": "2025-04-26T18:45:25.357954Z",
+    "modified_at": null,
+    "visit_count": 0,
+    "slug": "online-khabar-english",
+    "name": "Online Khabar English",
+    "name_nepali": "अनलाइन खबर English",
+    "url": "https://english.onlinekhabar.com/feed",
+    "logo_url": "https://english.onlinekhabar.com/wp-content/uploads/2020/09/cropped-logo-footer-32x32.png",
+    "favicon_url": "https://english.onlinekhabar.com/wp-content/uploads/2020/09/cropped-logo-footer-32x32.png",
+    "website": "https://english.onlinekhabar.com",
+    "description": null,
+    "is_active": true,
+    "language": "English",
+    "last_checked": "2025-05-10T17:33:59.763816Z",
+    "parse_feed_item_image": true,
+    "title": "OnlineKhabar English News",
+    "title_detail": {
+      "base": "",
+      "type": "text/plain",
+      "value": "OnlineKhabar English News",
+      "language": null
+    },
+    "subtitle": "English Edition",
+    "subtitle_detail": {
+      "base": "",
+      "type": "text/html",
+      "value": "English Edition",
+      "language": null
+    },
+    "updated_at": "2025-05-10T13:50:40Z",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://english.onlinekhabar.com/feed",
+        "type": "application/rss+xml"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://english.onlinekhabar.com",
+        "type": "text/html"
+      }
+    ],
+    "seo_meta_title": "Onlinekhabar English | Nepali portal for latest Nepal news",
+    "seo_meta_description": "Onlinekhabar English is one-stop Nepali news portal for latest Nepal news in politics, society, business, entertainment, lifestyle and environment.",
+    "seo_meta_keywords": ""
+  },
+  {
+    "id": 1,
+    "uuid": "0185b28a-8cf5-4534-adb1-03c103e0c96c",
+    "created_at": "2025-04-26T18:45:25.302011Z",
+    "modified_at": null,
+    "visit_count": 0,
+    "slug": "online-khabar",
+    "name": "Online Khabar",
+    "name_nepali": "अनलाइन खबर",
+    "url": "https://onlinekhabar.com/feed/",
+    "logo_url": "https://www.onlinekhabar.com/wp-content/uploads/2017/05/logo-mobile1-50x50.png",
+    "favicon_url": "https://www.onlinekhabar.com/wp-content/uploads/2017/05/logo-mobile1-50x50.png",
+    "website": "https://onlinekhabar.com",
+    "description": null,
+    "is_active": true,
+    "language": "Nepali",
+    "last_checked": "2025-05-10T17:34:02.479483Z",
+    "parse_feed_item_image": true,
+    "title": "Online Khabar",
+    "title_detail": {
+      "base": "",
+      "type": "text/plain",
+      "value": "Online Khabar",
+      "language": null
+    },
+    "subtitle": "No 1 News Portal from Nepal in Nepali.",
+    "subtitle_detail": {
+      "base": "",
+      "type": "text/html",
+      "value": "No 1 News Portal from Nepal in Nepali.",
+      "language": null
+    },
+    "updated_at": "2025-05-10T16:31:21Z",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://www.onlinekhabar.com/feed",
+        "type": "application/rss+xml"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://www.onlinekhabar.com",
+        "type": "text/html"
+      }
+    ],
+    "seo_meta_title": "Home ",
+    "seo_meta_description": "Onlinekhabar.com - No. 1 News Portal from Nepal, Business news, Bank Credit Profit, Sale, Nepal Tourism Year news, Vehicle loan, sale, Bank",
+    "seo_meta_keywords": ""
+  },
+  {
+    "id": 9,
+    "uuid": "6205b90c-86b0-4a34-b894-7ec0d37e95a5",
+    "created_at": "2025-04-26T18:45:25.343730Z",
+    "modified_at": null,
+    "visit_count": 0,
+    "slug": "news-24",
+    "name": "News 24",
+    "name_nepali": "न्यूज २४",
+    "url": "https://www.news24nepal.com/feed",
+    "logo_url": "https://www.news24nepal.com/themes/news24/images/fb-img.png",
+    "favicon_url": "https://www.news24nepal.com/themes/news24/images/favicon.png",
+    "website": "https://news24nepal.com",
+    "description": null,
+    "is_active": true,
+    "language": "Nepali",
+    "last_checked": "2025-05-10T17:34:01.079503Z",
+    "parse_feed_item_image": true,
+    "title": "Newa24Nepal",
+    "title_detail": {
+      "base": "",
+      "type": "text/plain",
+      "value": "Newa24Nepal",
+      "language": null
+    },
+    "subtitle": "Newa24Nepal News Portal",
+    "subtitle_detail": {
+      "base": "",
+      "type": "text/html",
+      "value": "Newa24Nepal News Portal",
+      "language": null
+    },
+    "updated_at": null,
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://www.news24nepal.com/feed",
+        "type": "application/rss+xml"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://www.news24nepal.com/",
+        "type": "text/html"
+      }
+    ],
+    "seo_meta_title": "News 24 Television",
+    "seo_meta_description": "News 24 Television",
+    "seo_meta_keywords": "News, 24, Television, , News 24 Television"
+  },
+  {
+    "id": 10,
+    "uuid": "07e32225-d93b-4c04-aeda-8dfda05a95f8",
+    "created_at": "2025-04-26T18:45:25.348535Z",
+    "modified_at": null,
+    "visit_count": 0,
+    "slug": "nepal-news",
+    "name": "Nepal News",
+    "name_nepali": "नेपाल न्यूज",
+    "url": "https://nepalnews.com/feed/",
+    "logo_url": "https://nepalnews.com/wp-content/uploads/2025/01/Screenshot-2025-01-07-at-23.58.39.png",
+    "favicon_url": "https://nepalnews.com/wp-content/uploads/2025/01/Screenshot-2025-01-07-at-23.58.39.png",
+    "website": "https://nepalnews.com",
+    "description": null,
+    "is_active": true,
+    "language": "English",
+    "last_checked": "2025-05-10T17:34:01.637172Z",
+    "parse_feed_item_image": true,
+    "title": "Nepal News",
+    "title_detail": {
+      "base": "",
+      "type": "text/plain",
+      "value": "Nepal News",
+      "language": null
+    },
+    "subtitle": "",
+    "subtitle_detail": {
+      "base": "",
+      "type": "text/html",
+      "value": "",
+      "language": null
+    },
+    "updated_at": "2025-05-10T16:28:05Z",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://nepalnews.com/feed/",
+        "type": "application/rss+xml"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://nepalnews.com",
+        "type": "text/html"
+      }
+    ],
+    "seo_meta_title": "Nepal News | Nepal's First Online News Portal",
+    "seo_meta_description": "Nepal's First Online News Portal",
+    "seo_meta_keywords": ""
+  },
+  {
+    "id": 11,
+    "uuid": "bac0eb79-fc37-4ef5-be03-1c4613d7c813",
+    "created_at": "2025-04-26T18:45:25.353330Z",
+    "modified_at": null,
+    "visit_count": 1,
+    "slug": "nagarik-dainik",
+    "name": "Nagarik Dainik",
+    "name_nepali": "नागरिक दैनिक",
+    "url": "https://nagariknews.nagariknetwork.com/feed/",
+    "logo_url": "https://jscss.nagariknewscdn.com/images/favicon.png",
+    "favicon_url": "https://jscss.nagariknewscdn.com/images/favicon.png",
+    "website": "https://nagariknews.nagariknetwork.com",
+    "description": "",
+    "is_active": true,
+    "language": "Nepali",
+    "last_checked": "2025-05-10T17:34:07.571788Z",
+    "parse_feed_item_image": true,
+    "title": "Nagarik News - Home",
+    "title_detail": {
+      "base": "",
+      "type": "text/plain",
+      "value": "Nagarik News - Home",
+      "language": null
+    },
+    "subtitle": "Nagarik News - The Most Comprehensive No. 1 News Portal of Nepal - Breaking News, Latest, Politics, World,\n       Economy, Entertainment, Sports, Technology, Blog, Cartoon, Opinion, Science, Interview, Health, Photo",
+    "subtitle_detail": {
+      "base": "",
+      "type": "text/html",
+      "value": "Nagarik News - The Most Comprehensive No. 1 News Portal of Nepal - Breaking News, Latest, Politics, World,\n       Economy, Entertainment, Sports, Technology, Blog, Cartoon, Opinion, Science, Interview, Health, Photo",
+      "language": null
+    },
+    "updated_at": "2025-05-10T15:50:01Z",
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "http://nagariknews.nagariknetwork.com/feed",
+        "type": "text/html"
+      },
+      {
+        "rel": "self",
+        "href": "https://nagariknews.nagariknetwork.com/feed",
+        "type": "application/rss+xml"
+      }
+    ],
+    "seo_meta_title": "Nagarik News",
+    "seo_meta_description": "Nagarik",
+    "seo_meta_keywords": "online news nepal, nepal news, nepal news online, nepal news today, nepal news latest, nepal news headlines, nepal news update, nepal news in nepali, nepal news headlines in nepali, nepal news lockdown, nepali news, nepali news online, nepali news today, "
+  },
+  {
+    "id": 6,
+    "uuid": "57495019-bbab-479d-8f35-c16917c91806",
+    "created_at": "2025-04-26T18:45:25.329347Z",
+    "modified_at": null,
+    "visit_count": 0,
+    "slug": "khabarhub",
+    "name": "Khabarhub",
+    "name_nepali": "खबरहब",
+    "url": "https://khabarhub.com/feed/",
+    "logo_url": "https://www.khabarhub.com/wp-content/uploads/2019/06/cropped-logo1-e1561904137653-32x32.png",
+    "favicon_url": "https://www.khabarhub.com/wp-content/uploads/2019/06/cropped-logo1-e1561904137653-32x32.png",
+    "website": "https://khabarhub.com",
+    "description": null,
+    "is_active": true,
+    "language": "Nepali",
+    "last_checked": "2025-05-10T17:34:03.076169Z",
+    "parse_feed_item_image": true,
+    "title": "Khabarhub",
+    "title_detail": {
+      "base": "",
+      "type": "text/plain",
+      "value": "Khabarhub",
+      "language": null
+    },
+    "subtitle": "Nepal's Trusted News Source",
+    "subtitle_detail": {
+      "base": "",
+      "type": "text/html",
+      "value": "Nepal's Trusted News Source",
+      "language": null
+    },
+    "updated_at": "2025-05-10T17:03:44Z",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://khabarhub.com/feed/",
+        "type": "application/rss+xml"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://khabarhub.com/",
+        "type": "text/html"
+      }
+    ],
+    "seo_meta_title": "Khabarhub",
+    "seo_meta_description": "Nepal's Trusted News Source",
+    "seo_meta_keywords": ""
+  },
+  {
+    "id": 2,
+    "uuid": "dc932b50-4608-4362-af0e-2df50ce51ac9",
+    "created_at": "2025-04-26T18:45:25.309946Z",
+    "modified_at": null,
+    "visit_count": 0,
+    "slug": "icon-khabar",
+    "name": "Icon Khabar",
+    "name_nepali": "आइकन खबर",
+    "url": "https://iconkhabar.com/feed/",
+    "logo_url": "https://iconkhabar.com/wp-content/uploads/2022/12/cropped-iconkhabrico-1-32x32.png",
+    "favicon_url": "https://iconkhabar.com/wp-content/uploads/2022/12/cropped-iconkhabrico-1-32x32.png",
+    "website": "https://iconkhabar.com",
+    "description": null,
+    "is_active": true,
+    "language": "Nepali",
+    "last_checked": "2025-05-10T17:34:05.538344Z",
+    "parse_feed_item_image": true,
+    "title": "Icon Khabar",
+    "title_detail": {
+      "base": "",
+      "type": "text/plain",
+      "value": "Icon Khabar",
+      "language": null
+    },
+    "subtitle": "Icon Khabar",
+    "subtitle_detail": {
+      "base": "",
+      "type": "text/html",
+      "value": "Icon Khabar",
+      "language": null
+    },
+    "updated_at": "2025-05-10T12:21:07Z",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://iconkhabar.com/feed",
+        "type": "application/rss+xml"
+      },
+      {
+        "rel": "alternate",
+        "href": "https://iconkhabar.com",
+        "type": "text/html"
+      }
+    ],
+    "seo_meta_title": "आइकन खबर Icon Khabar",
+    "seo_meta_description": "Icon Khabar is Nepali News Portal Site for genuine nepali Khabar",
+    "seo_meta_keywords": "Nepali News, Nepali Khabar, News, Icon Khabar"
+  },
+  {
+    "id": 3,
+    "uuid": "988dc581-f519-4dcb-ab9c-6aa8d751ce93",
+    "created_at": "2025-04-26T18:45:25.315121Z",
+    "modified_at": null,
+    "visit_count": 0,
+    "slug": "bbc-news-nepali",
+    "name": "BBC News Nepali",
+    "name_nepali": "बीबीसी न्यूज नेपाली",
+    "url": "https://feeds.bbci.co.uk/nepali/rss.xml",
+    "logo_url": "http://wscdn.bbc.co.uk/nepali/images/gel/brand.jpg",
+    "favicon_url": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/nepali/images/icons/icon-72x72.png",
+    "website": "https://bbc.com/nepali",
+    "description": null,
+    "is_active": true,
+    "language": "Nepali",
+    "last_checked": "2025-05-10T17:34:06.184072Z",
+    "parse_feed_item_image": true,
+    "title": "BBC News नेपाल",
+    "title_detail": {
+      "base": "",
+      "type": "text/plain",
+      "value": "BBC News नेपाल",
+      "language": null
+    },
+    "subtitle": "BBC News नेपाल - BBC News नेपाली",
+    "subtitle_detail": {
+      "base": "",
+      "type": "text/html",
+      "value": "BBC News नेपाल - BBC News नेपाली",
+      "language": null
+    },
+    "updated_at": "2025-05-10T17:31:28Z",
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "https://www.bbc.com/nepali",
+        "type": "text/html"
+      },
+      {
+        "rel": "self",
+        "href": "https://feeds.bbci.co.uk/nepali/rss.xml",
+        "type": "application/rss+xml"
+      }
+    ],
+    "seo_meta_title": "मुख पृष्ठ - BBC News नेपाली",
+    "seo_meta_description": "ताजा समाचार, विश्लेषण, रेडिओ नेपाली भाषामा - Latest News, Explainers, Radio in Nepali, BBC Nepali Sewa",
+    "seo_meta_keywords": ""
+  },
+  {
+    "id": 22,
+    "uuid": "6e3add96-44a7-4de0-a730-5b14761f4a0d",
+    "created_at": "2025-05-10T17:31:36.220642Z",
+    "modified_at": null,
+    "visit_count": 0,
+    "slug": "bajarko-chirfar",
+    "name": "Bajarko Chirfar",
+    "name_nepali": "बजारको चिरफार",
+    "url": "https://bajarkochirfar.com/feed/",
+    "logo_url": "https://bajarkochirfar.com/wp-content/themes/bajarkochirfar/assets/images/logo.png",
+    "favicon_url": "https://i0.wp.com/bajarkochirfar.com/wp-content/uploads/2024/11/cropped-Program-Logo.png?fit=32%2C32&ssl=1",
+    "website": "https://bajarkochirfar.com",
+    "description": null,
+    "is_active": true,
+    "language": "Nepali",
+    "last_checked": "2025-05-10T17:34:11.012045Z",
+    "parse_feed_item_image": true,
+    "title": "Bajarko Chirfar RSS Feeds",
+    "title_detail": {
+      "base": "",
+      "type": "text/plain",
+      "value": "Bajarko Chirfar RSS Feeds",
+      "language": null
+    },
+    "subtitle": "We are the fastest-growing financial news portal, delivering up-to-date information on Nepal's share market and economic landscape.",
+    "subtitle_detail": {
+      "base": "",
+      "type": "text/html",
+      "value": "We are the fastest-growing financial news portal, delivering up-to-date information on Nepal's share market and economic landscape.",
+      "language": null
+    },
+    "updated_at": "2025-05-10T15:37:33Z",
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "https://bajarkochirfar.com/",
+        "type": "text/html"
+      }
+    ],
+    "seo_meta_title": "BAJARKO CHIRFAR",
+    "seo_meta_description": "Nepal's Fastest-growing financial news portal: Live NEPSE market updates, broker holdings, trading, indices, economy news, dividends, AGMs, and News.",
+    "seo_meta_keywords": ""
+  },
+  {
+    "id": 5,
+    "uuid": "42c51e62-1360-406f-b667-ddf81b7bc5ee",
+    "created_at": "2025-04-26T18:45:25.324634Z",
+    "modified_at": null,
+    "visit_count": 0,
+    "slug": "annapurna-post",
+    "name": "Annapurna Post",
+    "name_nepali": "अन्नपूर्ण पोस्ट",
+    "url": "https://www.annapurnapost.com/rss/",
+    "logo_url": "https://annapurnapost.prixacdn.net/media/albums/default_2_WL82oPXtCZ.jpg",
+    "favicon_url": "https://snowberry.prixacdn.net/media/gallery_folder/anm-fav_qoxqP25etb_w9atwz27jbcg7tngui3nbrxonkizics7ahdk4abp4xmtzjemqdmsswgktnlo.ico",
+    "website": "https://annapurnapost.com",
+    "description": "",
+    "is_active": true,
+    "language": "Nepali",
+    "last_checked": "2025-05-10T17:34:10.510176Z",
+    "parse_feed_item_image": true,
+    "title": "Annapurna Post",
+    "title_detail": {
+      "base": "",
+      "type": "text/plain",
+      "value": "Annapurna Post",
+      "language": null
+    },
+    "subtitle": "Annapurna Post's Official RSS Feed.",
+    "subtitle_detail": {
+      "base": "",
+      "type": "text/html",
+      "value": "Annapurna Post's Official RSS Feed.",
+      "language": null
+    },
+    "updated_at": "2025-05-10T17:28:05Z",
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "http://annapurnapost.com/rss/",
+        "type": "text/html"
+      },
+      {
+        "rel": "self",
+        "href": "https://annapurnapost.com/rss/",
+        "type": "application/atom+xml"
+      }
+    ],
+    "seo_meta_title": "अन्नपूर्ण पोस्ट्",
+    "seo_meta_description": "Nepal's leading news portal : breaking news, exclusive news, politics, society, culture, sports, economy, entertainment, business, local news, opinion, science,",
+    "seo_meta_keywords": "Annapurna Post"
+  },
+  {
+    "id": 16,
+    "uuid": "67aeebf4-9b7d-40db-8c57-22b91209601b",
+    "created_at": "2025-05-10T17:31:36.172710Z",
+    "modified_at": null,
+    "visit_count": 0,
+    "slug": "ajako-artha",
+    "name": "Ajako Artha",
+    "name_nepali": "आजको अर्थ",
+    "url": "https://www.ajakoartha.com/feed/",
+    "logo_url": "https://ajakoartha.cdnsolution.net/media/setting/default-banner-image_zoY71o0mil.jpg",
+    "favicon_url": "https://ajakoartha.cdnsolution.net/media/setting/favicon_drj6FUAN9J.png",
+    "website": "https://www.ajakoartha.com/",
+    "description": null,
+    "is_active": true,
+    "language": "Nepali",
+    "last_checked": "2025-05-10T17:34:08.292471Z",
+    "parse_feed_item_image": true,
+    "title": "Ajako Aartha",
+    "title_detail": {
+      "base": "",
+      "type": "text/plain",
+      "value": "Ajako Aartha",
+      "language": null
+    },
+    "subtitle": "Ajako Aartha | Nepal's No. 1 Business News Portal Official RSS Feed.",
+    "subtitle_detail": {
+      "base": "",
+      "type": "text/html",
+      "value": "Ajako Aartha | Nepal's No. 1 Business News Portal Official RSS Feed.",
+      "language": null
+    },
+    "updated_at": "2025-05-10T15:41:00Z",
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "https://www.ajakoartha.com/rss",
+        "type": "text/html"
+      },
+      {
+        "rel": "self",
+        "href": "https://www.ajakoartha.com/feed",
+        "type": "application/atom+xml"
+      }
+    ],
+    "seo_meta_title": "Ajako Aartha | Nepal's No. 1 Business News Portal",
+    "seo_meta_description": "AjakoArtha is Nepal's No. 1 Business News Portal dedicated towards delivering fast, accurate, and dependable news to the readers.",
+    "seo_meta_keywords": "Ajako Aartha, Nepal Business News, Business News Nepal, Nepali Business Updates, Financial News Nepal, Nepal Stock Market News, Economic News Nepal, Business Trends Nepal, Nepali Finance News, Business Portal Nepal, Nepal Economy Updates, Stock Market Nep"
+  }
+]
